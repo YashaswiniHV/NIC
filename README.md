@@ -1,1 +1,2 @@
 # NIC
+updated readme file
